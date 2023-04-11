@@ -1,0 +1,17 @@
+.d-cart {
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+    border-radius: 8px;
+}
+p{    
+line-height: 32px;
+}
+.btn-applyNOW {
+    width: 100%;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 19px 140px;
+    /* padding: 19px 161px; */
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8PX;
+}

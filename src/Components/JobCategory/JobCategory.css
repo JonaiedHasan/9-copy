@@ -1,0 +1,19 @@
+.category-container {
+    margin-top: 130px;
+    margin-bottom: 130px;
+  
+}
+
+
+
+.category{
+    padding: 40px 40px 32px 40px;
+    background-color:rgb(241, 241, 241);
+    border-radius: 8px;
+}
+.category-logo{
+    width: 70px;
+    height: 70px;
+    background-color:rgb(204, 212, 220); 
+    margin-bottom: 35px;
+}

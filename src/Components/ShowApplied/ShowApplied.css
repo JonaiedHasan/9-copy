@@ -1,0 +1,49 @@
+.cart {
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.img-div{
+    display: flex;
+    margin-right: 32px;
+    width: 240px;
+    height: 240px;
+    background: #F4F4F4;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-div img {
+     width: 145.86px;
+    height: 50px;
+   
+}
+
+.btn-detail {
+    width: 157px;
+    height: 57px;
+    color: #FFFFFF;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    font-weight: 650;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+.review-details{
+    flex-grow: 1;
+}
+
+/* .job-title {
+    margin-top: 6px;
+    font-weight: 650;
+    font-size: 24px;
+    color: #474747;
+}
+
+.light-dark{
+    color: #757575;
+} */

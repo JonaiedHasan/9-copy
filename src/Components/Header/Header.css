@@ -1,0 +1,25 @@
+.header-text {
+    margin-left: 61px;
+}
+
+.header-text h4 {
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 100px;
+}
+
+.header-text p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #757575;
+}
+
+.title-dream {
+    color: #7E90FE;
+    background-color: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+}
+
+.img-container {
+    width: 1400px;
+}
